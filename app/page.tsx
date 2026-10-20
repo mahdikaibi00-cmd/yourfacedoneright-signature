@@ -1242,7 +1242,7 @@ function PageContent({ initialLang }: { initialLang: 'EN' | 'ES' }) {
 
                         <FadeUp delay={0.2} className="flex-grow min-h-[300px] lg:min-h-[400px] w-full rounded-[2.5rem] overflow-hidden shadow-sm border border-[#EAE6DF] relative group bg-[#FAFAFA]">
                             <iframe 
-                                src="https://maps.google.com/maps?q=5010+E+Shea+Blvd+#200,+Scottsdale,+AZ+85254&t=&z=14&ie=UTF8&iwloc=&output=embed" 
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106423.83756857187!2d-112.053128!3d33.5834107!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b7556c2a03c1d%3A0x8116d18f0cca7f50!2sArizona%20Studio%20of%20Electrolysis%20%26%20Permanent%20Makeup!5e0!3m2!1sen!2sus!4v1710000000000!5m2!1sen!2sus" 
                                 width="100%" 
                                 height="100%" 
                                 className="absolute inset-0 w-full h-full grayscale opacity-70 group-hover:grayscale-0 group-hover:opacity-100 transition-all duration-700"
